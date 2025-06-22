@@ -1,0 +1,18 @@
+# Python
+backend-nlp/venv/
+__pycache__/
+*.pyc
+
+# Node.js
+frontend-ui/node_modules/
+dist/
+
+# VSCode settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
